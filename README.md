@@ -1,3 +1,20 @@
+# CQRS + DDD/TDD C# Developer
++ https://xhafan.com/blog/
++ https://github.com/xhafan/
++ https://github.com/heynickc/awesome-ddd
++ https://github.com/OrleansContrib/Orleankka
++ https://github.com/Abc-Arbitrage/Zebus
+
+# CQRS
++ Getting Started with CQRS – Part 1
++ https://www.red-gate.com/simple-talk/development/dotnet-development/getting-started-with-cqrs-part-1/
++ Getting Started with CQRS – Part 2
++ https://www.red-gate.com/simple-talk/development/dotnet-development/getting-started-with-cqrs-part-2/
++ Getting Started with CQRS – Part 3
++ https://www.red-gate.com/simple-talk/development/dotnet-development/getting-started-with-cqrs-part-3/
++ **Simple CQRS example**
++ **https://github.com/gregoryyoung/m-r**
+
 # ASP.NET MVC 5 + Web API 2
 + https://github.com/gtechsltn/cqrs-net-framework
 + Simple CQRS example
@@ -6,6 +23,11 @@
 + https://github.com/gtechsltn/ContactService
 + Time Management App using ASP.NET Web API 2, Angular and MediatR (CQRS)
 + https://github.com/gtechsltn/work-day
+
+# Auto Generate Code for FE + BE
++ http://metawidget.org/
++ **A home for your business logic in any .NET Application.**
++ **https://github.com/MarimerLLC/csla**
 
 # Git
 + Most commonly used git tips and tricks
