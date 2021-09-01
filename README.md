@@ -1,4 +1,25 @@
 # ASP.NET Web API 2
++ **https://github.com/gtechsltn/1933**
++ **Projeto construído com:**
+  + C#
+  + ASP.NET MVC
+  + API REST
+  + Angular
+  + Design Patterns
+  + SOLID
+  + DDD
+  + Clean Code
++ **Conteúdo Programático:**
+  + Modelando o domínio
+  + Repository Pattern
+  + Dependency Injection
+  + Services
+  + Consumindo os Services
+  + Iniciando a API
+  + Autenticação em Serviços
+  + Criando o endpoint
+  + Performance e Padronização
+  + Publicando a API
 + **ASP.NET MVC/Web API**
 + https://www.codemag.com/article/1206081
 + https://weblog.west-wind.com/posts/2012/Aug/21/An-Introduction-to-ASPNET-Web-API
@@ -21,8 +42,13 @@
 + https://weblog.west-wind.com/posts/2013/Dec/13/Accepting-Raw-Request-Body-Content-with-ASPNET-Web-API
 + https://weblog.west-wind.com/posts/2012/Aug/16/Mapping-UrlEncoded-POST-Values-in-ASPNET-Web-API
 
+# .NET 5
++ https://www.linkedin.com/pulse/how-create-custom-multi-project-net-template-visual-studio-gayle/
++ https://github.com/marlonajgayle/Net5WebTemplate
+
 # .NET Core
 + https://github.com/RickStrahl/AlbumViewerVNext
++ https://github.com/RickStrahl/Westwind.AspNetCore
 
 # CQRS + DDD/TDD C# Developer
 + https://xhafan.com/blog/
