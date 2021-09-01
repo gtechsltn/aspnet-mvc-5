@@ -1,3 +1,10 @@
+# ASP.NET Web API 2
++ https://github.com/gtechsltn/AspNetWebApiArticle
++ https://github.com/gtechsltn/AspNetFrameworksPerformance
+
+# .NET Core
++ https://github.com/RickStrahl/AlbumViewerVNext
+
 # CQRS + DDD/TDD C# Developer
 + https://xhafan.com/blog/
 + https://github.com/xhafan/
@@ -26,6 +33,8 @@
 
 # Auto Generate Code for FE + BE
 + http://metawidget.org/
++ **CSLA .NET: A Home for Your Business Logic**
++ **https://www.codemag.com/Article/2003081/CSLA-.NET-A-Home-for-Your-Business-Logic**
 + **A home for your business logic in any .NET Application.**
 + **https://github.com/MarimerLLC/csla**
 
