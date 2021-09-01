@@ -1,6 +1,25 @@
 # ASP.NET Web API 2
++ **ASP.NET MVC/Web API**
++ https://www.codemag.com/article/1206081
++ https://weblog.west-wind.com/posts/2012/Aug/21/An-Introduction-to-ASPNET-Web-API
 + https://github.com/gtechsltn/AspNetWebApiArticle
 + https://github.com/gtechsltn/AspNetFrameworksPerformance
++ https://github.com/gtechsltn/WestwindToolkit
++ The main components of the West Wind Toolkit are:
+  + Westwind.Utilities - Core utilities and helper classes for all aspects of .NET
+  + Westwind.Data - Business Object wrapper for Entity Framework Code First
+  + Westwind.Data.MongoDb - Business Object and data access wrapper for MongoDb
+  + Westwind.Web - Core ASP.NET helpers and components
+  + Westwind.Web.Mvc - ASP.NET MVC support components
+  + Westwind.Web.WebForms - ASP.NET WebForms controls, helpers and components
+  + Westwind.Web.WebApi - ASP.NET WebAPI filters, behaviors and extensions
+
+## Articles
++ https://weblog.west-wind.com/posts/2012/may/08/passing-multiple-post-parameters-to-web-api-controller-methods
++ https://weblog.west-wind.com/posts/2013/Apr/18/A-WebAPI-Basic-Authentication-Authorization-Filter
++ https://weblog.west-wind.com/posts/2012/Sep/11/Passing-multiple-simple-POST-Values-to-ASPNET-Web-API
++ https://weblog.west-wind.com/posts/2013/Dec/13/Accepting-Raw-Request-Body-Content-with-ASPNET-Web-API
++ https://weblog.west-wind.com/posts/2012/Aug/16/Mapping-UrlEncoded-POST-Values-in-ASPNET-Web-API
 
 # .NET Core
 + https://github.com/RickStrahl/AlbumViewerVNext
