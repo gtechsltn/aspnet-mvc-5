@@ -1,4 +1,6 @@
 # ASP.NET Web API 2
++ https://freesoft.dev/topics/mvc5
++ https://github.com/thenitrocodes
 + **https://github.com/gtechsltn/1933**
 + **Projeto construído com:**
   + C#
