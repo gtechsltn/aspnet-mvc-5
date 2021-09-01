@@ -1,7 +1,15 @@
 # ASP.NET MVC 5 + Web API 2
 + https://github.com/gtechsltn/cqrs-net-framework
++ Simple CQRS example
 + https://github.com/gtechsltn/m-r
++ ContactService using ASP.NET Web API 2, Angular 4, SignalR, MediatR (CQRS), Azure Service Bus, Redis and TypeScript
 + https://github.com/gtechsltn/ContactService
++ Time Management App using ASP.NET Web API 2, Angular and MediatR (CQRS)
++ https://github.com/gtechsltn/work-day
+
+# Git
++ Most commonly used git tips and tricks
++ https://github.com/gtechsltn/tips
 
 # ASP.NET MVC 5
 + **https://github.com/gtechsltn/SampleSortableChildCollectionForm**
