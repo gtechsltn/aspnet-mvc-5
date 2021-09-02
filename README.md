@@ -1,3 +1,21 @@
+# ASP.NET MVC 5
++ **4 Ways To Create Form In ASP.NET MVC**
++ https://www.completecsharptutorial.com/asp-net-mvc5/4-ways-to-create-form-in-asp-net-mvc.php
++ 4 Ways To Get Form Data In ASP.NET MVC 5
++ https://www.completecsharptutorial.com/mvc-articles/4-ways-to-collect-form-data-in-controller-class-in-asp-net-mvc-5.php
++ ASP.NET MVC 5 – HTTPGET And HTTPPOST Method With Example
++ https://www.completecsharptutorial.com/asp-net-mvc5/asp-net-mvc-5-httpget-and-httppost-method-with-example.php
++ **All Types Of Action Methods In ASP.NET MVC 5**
++ https://www.completecsharptutorial.com/asp-net-mvc5/all-types-of-action-methods-in-asp-net-mvc-5.php
++ Understanding Controllers Basics By Examples And Tutorial
++ https://www.completecsharptutorial.com/asp-net-mvc5/understanding-controllers-basics-by-examples-and-tutorials.php
++ CRUD In ASP.NET MVC 5 Without Entity Framework
++ https://www.completecsharptutorial.com/mvc-articles/insert-update-delete-in-asp-net-mvc-5-without-entity-framework.php
++ **ASP.NET MVC 5 FORM VALIDATION**
++ https://hoanguyenit.com/aspnet-mvc5-form-validation.html
++ **ASP.NET MVC 5 LOGIN AND REGISTER**
++ https://hoanguyenit.com/aspnet-mvc5-login-and-register.html
+
 # ASP.NET Web API 2
 + https://freesoft.dev/topics/mvc5
 + https://github.com/thenitrocodes
