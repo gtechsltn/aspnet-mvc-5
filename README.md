@@ -1,3 +1,19 @@
+# Performance
++ https://github.com/gtechsltn/dotnet-api-boilerplate
++ https://github.com/gtechsltn/URF.Core.Sample
++ **The Web Markup Minifier (abbreviated WebMarkupMin) - + .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.**
++ https://github.com/gtechsltn/WebMarkupMin
++ https://github.com/MindscapeHQ/raygun4net
+
+# Integrating ASP.NET Web Forms, MVC and Web API
++ https://github.com/gtechsltn/Scaffolding
++ ASP.NET MVC and ASP.NET Web API in the same project
++ Identify the main components of an ASP.NET application
++ Take advantage of the ASP.NET Scaffolding framework to automatically create Controllers and Views to perform CRUD operations based on your model classes
++ **How to manually process a JWT access token in a web API using the JSON Web Token Handler For the Microsoft .Net Framework 4.5.**
++ https://github.com/Azure-Samples/active-directory-dotnet-webapi-manual-jwt-validation
+
+
 # Scaffolding
 + https://github.com/gtechsltn/Scaffolding
 + https://github.com/Sampath-Lokuge/Scaffolding
