@@ -1,3 +1,35 @@
+# Templates
++ **https://marketplace.visualstudio.com/items?itemName=sergey-tregub.asp-net-web-api-owin-template**
++ **https://marketplace.visualstudio.com/items?itemName=sergey-tregub.asp-net-core-restful-service-template**
++ **ASP.Net WebAPI Application Project Template**
++ Project template to create production-ready RESTful service based on ASP.Net WebAPI and OWIN. It contains Swagger-documentation, preconfigured DI-container, logging, CORS, JWT-bearer authentication, boilerplate code and other features
++ https://marketplace.visualstudio.com/items?itemName=sergey-tregub.asp-net-web-api-owin-template
++ **Ready to use preconfigured VS2017/VS2019 project to create fully functional production ready RESTful services with minimum frictions**
++ https://github.com/drwatson1/AspNet-WebApi/releases
++ **VS2017/VS2019 project template for ASP.Net Core 3.1/5.0 to create fully functional production ready RESTful services**
++ https://github.com/drwatson1/AspNet-Core-REST-Service
++ **Ready to use preconfigured VS2017/VS2019 project to create fully functional production ready RESTful services with minimum frictions**
++ https://github.com/drwatson1/AspNet-WebApi
++ https://github.com/gtechsltn/AspNet-WebApi
++ **ASP.NET WebAPI application for Angular-Cli**
++ https://github.com/kkoziarski/NgWebApi
++ https://github.com/gtechsltn/NgWebApi
++ **Angular Single Page Application with an ASP.NET Core Web API that uses token authentication**
++ https://github.com/robisim74/AngularSPAWebAPI
++ https://github.com/gtechsltn/AngularSPAWebAPI
++ https://volkanpaksoy.com/archive/2015/01/05/visual-studio-project-template-for-webapi/
++ https://daniellewis.dev/2014/02/21/asp-net-web-api-from-scratch-part-1/
++ https://www.calabonga.net/blog/post/angular-plus-webapi-minus-mvc-5
++ https://docs.telerik.com/reporting/telerik-reporting-rest-host-http-service-using-web-hosting
++ Newtonsoft.Json.dll
++ System.Web.Http.dll
++ System.Web.Http.WebHost.dll
++ System.Net.Http.dll
++ System.Net.Http.Formatting.dll
++ Microsoft.AspNet.WebApi.Cors
++ GlobalConfiguration.Configuration.EnableCors();
++ [EnableCors(origins:"*", headers:"*", methods:"*")]
+
 # Clean Architecture
 + **Clean Architecture in ASP.NET MVC 5**
 + https://github.com/mithunvp/ngGitHouse
