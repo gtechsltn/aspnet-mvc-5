@@ -1,3 +1,39 @@
+# Clean Architecture
++ **Clean Architecture in ASP.NET MVC 5**
++ https://github.com/mithunvp/ngGitHouse
++ https://github.com/gtechsltn/ngGitHouse
++ https://github.com/gtechsltn/ASP.NET-MVC-Using-Angular-5 (**Angular 5 + ASP.NET MVC 5**)
++ https://dotnetthoughts.net/how-to-use-angular4-wth-aspnet-mvc/ (**How to use Angular 4 with ASP.NET MVC 5**)
++ https://github.com/anuraj/MVCAngularCRUDExample
++ https://github.com/gtechsltn/ngGitHouse/
++ https://help.syncfusion.com/angular/gettingstarted/getting-started-angular-with-mvc-application
++ https://mithunvp.com/angular-asp-net-mvc-5-angular-cli-visual-studio-2017/
++ https://matthewrenze.com/articles/clean-architecture-in-asp-net-mvc-5/
++ https://github.com/gtechsltn/clean-architecture-in-asp-net-mvc-5
++ https://github.com/matthewrenze/clean-architecture-in-asp-net-mvc-5
++ https://www.youtube.com/watch?v=hZe5I91zIyc
+
+# Clean Architecture .NET Core 5.0
++ https://www.c-sharpcorner.com/article/clean-architecture-end-to-end-in-net-5/
++ https://jasontaylor.dev/clean-architecture-getting-started/
++ https://www.youtube.com/watch?v=5OtUm1BLmG0
++ https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/
++ https://codewithmukesh.com/blog/cqrs-in-aspnet-core-3-1/
++ https://codewithmukesh.com/project/aspnet-core-hero-boilerplate/
++ https://marketplace.visualstudio.com/items?itemName=MukeshMurugan.CleanArchitectureWebApi
++ https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture
++ https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture
++ https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/
++ https://awesomeopensource.com/projects/clean-architecture
++ https://github.com/dannielhugo/typescript-clean-architecture (**TypeScript**)
++ https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure/ (**Flutter**)
++ https://www.c-sharpcorner.com/article/clean-architecture-end-to-end-in-net-5/
++ https://www.freecodespot.com/blog/angular-with-dotnet-core-web-api/ (**Angular 11 + ASP.NET Core**)
++ https://github.com/coderbugzz/AngularDemo
+
+# AspMvc5Minimal
++ https://github.com/mchudinov/AspMvc5Minimal
+
 # Performance
 + https://github.com/gtechsltn/dotnet-api-boilerplate
 + https://github.com/gtechsltn/URF.Core.Sample
@@ -25,6 +61,7 @@
 + http://www.mukeshkumar.net/articles/mvc/export-data-in-excel-file-with-asp-net-mvc
 
 # ASP.NET Framework 4.x Web API Solution Template
++ https://developer.okta.com/blog/2018/12/21/build-basic-web-app-with-mvc-angular
 + https://developer.okta.com/blog/2019/03/13/build-rest-api-with-aspnet-web-api
 + https://developer.okta.com/blog/2018/02/01/secure-aspnetcore-webapi-token-auth
 + https://developer.okta.com/blog/2018/09/07/build-simple-crud-with-aspnet-webapi-vue
@@ -32,6 +69,8 @@
 + https://www.c-sharpcorner.com/UploadFile/4b0136/implement-Asp-Net-web-api-2-in-Asp-Net-mvc-5/
 + https://www.tutorialsteacher.com/webapi/create-web-api-project
 + https://github.com/Sampath-Lokuge/Scaffolding
++ https://github.com/coderbugzz/MVCAttributeDemo
++ https://github.com/coderbugzz/AjaxValidationDemo
 
 # .NET Core
 + https://www.c-sharpcorner.com/article/how-to-implement-nswag-in-asp-net-core/
