@@ -1,3 +1,32 @@
+# Scaffolding
++ https://github.com/gtechsltn/Scaffolding
++ https://github.com/Sampath-Lokuge/Scaffolding
++ https://github.com/loresoft/EntityFrameworkCore.Generator
++ https://manhng.com/blog/code-generators/
++ https://www.codeproject.com/Articles/1243908/Generate-Csharp-Client-API-for-ASP-NET-Core-Web-AP
++ https://www.codeproject.com/Articles/1074039/Generate-Csharp-Client-API-for-ASP-NET-Web-API
++ http://www.mukeshkumar.net/articles/web-api/token-based-authentication-in-web-api
++ http://www.mukeshkumar.net/articles/mvc/export-data-in-excel-file-with-asp-net-mvc
+
+# ASP.NET Framework 4.x Web API Solution Template
++ https://developer.okta.com/blog/2019/03/13/build-rest-api-with-aspnet-web-api
++ https://developer.okta.com/blog/2018/02/01/secure-aspnetcore-webapi-token-auth
++ https://developer.okta.com/blog/2018/09/07/build-simple-crud-with-aspnet-webapi-vue
++ https://developer.okta.com/blog/2018/07/27/build-crud-app-in-aspnet-framework-webapi-and-angular
++ https://www.c-sharpcorner.com/UploadFile/4b0136/implement-Asp-Net-web-api-2-in-Asp-Net-mvc-5/
++ https://www.tutorialsteacher.com/webapi/create-web-api-project
++ https://github.com/Sampath-Lokuge/Scaffolding
+
+# .NET Core
++ https://www.c-sharpcorner.com/article/how-to-implement-nswag-in-asp-net-core/
++ http://www.mukeshkumar.net/articles/dotnetcore/crud-operation-in-asp-net-core-web-api-with-entity-framework-core
++ **.Net Core API Code Generator**
++ http://code.itiapp.com/
++ http://code.itiapp.com/support (**nguyentien06ck3@gmail.com**)
+
++ **.NET 5 Web API Clean Architecture Solution Template**
++ https://github.com/iayti/CleanArchitecture
+
 # ASP.NET MVC 5
 + **4 Ways To Create Form In ASP.NET MVC**
 + https://www.completecsharptutorial.com/asp-net-mvc5/4-ways-to-create-form-in-asp-net-mvc.php
