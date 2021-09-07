@@ -1,3 +1,12 @@
+# MVC 5 Templates
++ https://github.com/NikolayIT/ASP.NET-MVC-5-Template/
++ https://github.com/shibayan/aspnet-mvc5-template/
++ https://github.com/InKolev/ASP.NET-MVC-5-Project-Template/
++ https://github.com/lizt99/MVC5.Template/
++ https://github.com/wimmio/MVC.Template/
++ https://github.com/simonneedham/mvc5-templates
++ https://opensourcelibs.com/lib/samples-asp.net-mvc-csharp
+
 # Templates
 + **https://marketplace.visualstudio.com/items?itemName=sergey-tregub.asp-net-web-api-owin-template**
 + **https://marketplace.visualstudio.com/items?itemName=sergey-tregub.asp-net-core-restful-service-template**
